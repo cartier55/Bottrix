@@ -1,3 +1,3 @@
-bottrix_token = 'Bearer NjIyZTQ4MGQtMjFjYy00ODY3LWE3Y2ItYWQyN2I5NDhmZDk2ZDRjYTk2NzQtOGIw_PF84_1eb65fdf-9643-417f-9974-ad72cae0e10f'
-test_room_token = 'Y2lzY29zcGFyazovL3VybjpURUFNOnVzLWVhc3QtMl9hOmlkZW50aXR5TG9va3VwL1JPT00vOTBhOTg1ZDAtYTU2ZC0xMWVjLTliMTktMTliYjBjMTMwOTk5'
-loaned_devices_room_token = 'Y2lzY29zcGFyazovL3VybjpURUFNOnVzLWVhc3QtMl9hOmlkZW50aXR5TG9va3VwL1JPT00vODQ5ZjEyNDAtYTVhZi0xMWVjLTk0NmUtOWY4Y2JjOGU0MjE3'
+bottrix_token = 'Bearer---'
+test_room_token = ''
+loaned_devices_room_token = ''
