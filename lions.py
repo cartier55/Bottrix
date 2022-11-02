@@ -15,8 +15,8 @@ tqdm.pandas(desc='Processsing DataFrame', leave=False)
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 init(autoreset=True)
 
-USER = 'carjames'
-PASS = "cJ24549bdedibdedi24549?"
+USER = ''
+PASS = ""
 loginURL = 'https://lions-ng.cisco.com/laravel/login'
 cases = 'https://lions-ng.cisco.com/project/14976'
 case = 'https://lions-ng.cisco.com'
